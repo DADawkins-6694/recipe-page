@@ -1,0 +1,40 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Triple Chocolate Brownies</title>
+</head>
+<body>
+  <h1>Triple Chocolate Brownies</h1>
+  <p>These rich and fudgy Triple Chocolate Brownies are loaded with three types of chocolate for the ultimate dessert indulgence.</p>
+
+  <h2>Ingredients</h2>
+  <ul>
+    <li>1 cup unsalted butter</li>
+    <li>8 oz semisweet chocolate, chopped</li>
+    <li>1 1/2 cups granulated sugar</li>
+    <li>3 large eggs</li>
+    <li>1/2 cup cocoa powder</li>
+    <li>1/2 cup milk chocolate chips</li>
+    <li>1/2 cup white chocolate chips</li>
+  </ul>
+
+  <h2>Instructions</h2>
+  <ol>
+    <li>Preheat oven to 350°F (175°C) and grease a baking pan.</li>
+    <li>Melt butter and semisweet chocolate together until smooth.</li>
+    <li>Whisk in sugar, then add eggs one at a time.</li>
+    <li>Stir in cocoa powder until combined.</li>
+    <li>Fold in milk chocolate chips and white chocolate chips.</li>
+    <li>Pour batter into pan and bake for 30–35 minutes.</li>
+    <li>Cool before cutting into squares and serving.</li>
+  </ol>
+
+  <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="A plate of rich, fudgy triple chocolate brownies">
+</body>
+</html>
+
+** end of index.html **
+
